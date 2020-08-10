@@ -1,0 +1,17 @@
+.tabs{
+    display:flex;
+    padding:4vh 0vw;
+    margin-left:10vw;
+}
+.tab-labels{
+margin-right:7vw;
+color:#bfbbbb;
+cursor:pointer;
+padding:0px 0px 5px 0px;
+font-weight: 600;
+}
+.tab-labels--active{
+padding:0px 0px 5px 0px;
+color:#e4c61e;
+border-bottom:3px solid #e4c61e;
+}

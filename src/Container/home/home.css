@@ -1,0 +1,37 @@
+.home{
+    padding:3vh 0vw;
+    font-family:Helvetica;
+    /* scrollbar-width: none;  */
+  }
+  /* .App::-webkit-scrollbar {
+    display: none;
+  } */
+.swipe-cards{
+    display:flex;
+    overflow-y: auto; 
+    scrollbar-width: none;  
+    padding-bottom: 5vh;
+}
+.swipe-cards > hr{
+  margin-left: 10vw;
+  opacity: 0;
+}
+.swipe-cards::-webkit-scrollbar {
+    display: none;
+}
+.swipe-mini-cards{
+  display:flex;
+    overflow-y: auto; 
+    scrollbar-width: none;  
+    /* padding-bottom: 5vh; */
+}
+.swipe-mini-cards> hr{
+  margin-left: 10vw;
+  opacity: 0;
+}
+.swipe-mini-cards::-webkit-scrollbar {
+  display: none;
+}
+.home-heading{
+  padding:0vh 10vw;
+}

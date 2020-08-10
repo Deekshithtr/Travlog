@@ -1,0 +1,27 @@
+.button
+{
+    background-color: black;
+    height: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    width: 220px;
+    height: 40px;
+    border-radius: 15px;
+}
+.button > p{
+    margin-left: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.buttonlink{
+    text-decoration: none;
+}
+
+/* .button *{
+    margin-left: 60px;
+} */

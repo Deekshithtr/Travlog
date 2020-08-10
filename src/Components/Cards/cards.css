@@ -1,0 +1,25 @@
+.card{
+    position: relative;
+    margin:0vh 0vw 0vh 10vw;
+}
+.card-image{
+    width: 200px;
+    height: 300px;
+    object-fit: fill;
+    border-radius: 8%;
+    box-shadow: 2px 2px 5px 3px #e2d8d8;
+}
+
+.card-location{
+    position:absolute;
+    color:white;
+    font-weight: 600px;
+    left:20px;
+    bottom:5vh;
+}
+
+.card-location__place
+{
+    font-weight:bold;
+    padding: 0 0 3px 0;
+}

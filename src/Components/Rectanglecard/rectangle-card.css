@@ -1,0 +1,31 @@
+.rectangle-card{
+    position: relative;
+    cursor: pointer;
+    margin: 10px 0px
+}
+.rectangle-card-background{
+    width: 100%;
+    height: 28vh;
+    object-fit: fill;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 3px #e2d8d8;
+}
+
+.rectangle-card-label
+{
+    position:absolute;
+    color:white;
+    font-weight: 600px;
+    left:20px;
+    bottom:4vh;
+}
+.rectangle-card-placename{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.rectangle-card-state
+{
+    font-size: 12px;
+    color: rgb(216, 216, 216);
+}
