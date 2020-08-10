@@ -1,5 +1,5 @@
 # Travlog
-##### Travlog is a website where you can view all the tourist places around the globe.
+> Travlog is a website where you can view all the tourist places around the globe.
 
 # Downloading 
 
@@ -18,7 +18,7 @@
 
 # App preview
 
-### 1st page
+### Home page
 
 <img src="./src/images/1st.png" width=400 height=700/>
 
