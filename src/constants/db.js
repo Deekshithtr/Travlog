@@ -25,7 +25,7 @@ export const cardData=[{
     rating:4.6,
     direction:"5.5",
     weather:"16C",
-    foodImage:"thtps://pvtistes.net/wp-content/uploads/2013/08/siroperable-1024x678.jpg",
+    foodImage:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.G3xBlfOlL69dHZfJ98kVawHaDt%26pid%3DApi&f=1",
     places:[{
       _id:"201",
       place:"Naigra Waterfalls",

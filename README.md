@@ -15,3 +15,9 @@ travlog is a website where you can view all the tourist places around the globe.
 # Running the code
 
 ``` yarn start ```
+
+# App preview
+
+![](./src/images/1st.png)
+![](./src/images/2nd.png)
+![](./src/images/3rd.png)
