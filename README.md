@@ -7,7 +7,7 @@ travlog is a website where you can view all the tourist places around the globe.
 
 [know more](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
-# Installation
+# Install Dependecies
 
 ``` yarn install ```
 
