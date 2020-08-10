@@ -1,4 +1,4 @@
-# <img src='./src/images/travel.png' width=40px height=40px/>  Travlog
+# <img src='./src/images/travel.png' width=40px height=40px /> Travlog
 
 > Travlog is a website where you can view all the tourist places around the globe.
 
