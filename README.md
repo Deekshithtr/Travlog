@@ -7,7 +7,7 @@ travlog is a website where you can view all the tourist places around the globe.
 
 # Installation
 
-``` yarn install ``
+``` yarn install ```
 
 # Running the code
 
