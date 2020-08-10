@@ -4,7 +4,7 @@
 
 # Downloading 
 
-```git clone <repo name> ```
+```git clone https://github.com/Deekshithtr/Travlog.git ```
 
 [know more](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
