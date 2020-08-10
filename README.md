@@ -18,6 +18,6 @@ travlog is a website where you can view all the tourist places around the globe.
 
 # App preview
 
-![](./src/images/1st.png)
-![](./src/images/2nd.png)
-![](./src/images/3rd.png)
+<img src="./src/images/1st.png" width=100 height=400/>
+<img src="./src/images/2nd.png" width=300 height=700/>
+<img src="./src/images/3rd.png" width=400 height=800/>
