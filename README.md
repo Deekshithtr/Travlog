@@ -1,4 +1,4 @@
-[logo]:./src/images/travel.png "TravelLog"
+[logo]:('./src/images/travel.png') 
 # Travlog
 > Travlog is a website where you can view all the tourist places around the globe.
 
